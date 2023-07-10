@@ -16,8 +16,8 @@ AbstractTestCaseServlet classes.
 
 package testcasesupport;
 
-import java.io.IOException;
 import javax.servlet.http.*;
+import java.io.IOException;
 
 public abstract class AbstractTestCaseServletBase extends HttpServlet 
 {

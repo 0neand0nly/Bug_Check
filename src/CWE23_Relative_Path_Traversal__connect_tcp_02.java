@@ -13,8 +13,6 @@ Template File: sources-sink-02.tmpl.java
 *
 * */
 
-package testcases.CWE23_Relative_Path_Traversal;
-
 import testcasesupport.*;
 
 import java.io.*;

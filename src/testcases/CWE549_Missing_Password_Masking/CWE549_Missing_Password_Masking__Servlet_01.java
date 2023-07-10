@@ -13,7 +13,7 @@ Template File: point-flaw-01.tmpl.java
 *
 * */
 
-package CWE549_Missing_Password_Masking;
+package testcases.CWE549_Missing_Password_Masking;
 
 import testcasesupport.*;
 

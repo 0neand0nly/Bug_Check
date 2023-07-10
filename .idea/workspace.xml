@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddb86e1d-7430-4fc7-a35d-545ac85f2fa0" name="변경" comment="" />
+    <list default="true" id="ddb86e1d-7430-4fc7-a35d-545ac85f2fa0" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bug_Check.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE113_HTTP_Response_Splitting__connect_tcp_addCookieServlet_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE190_Integer_Overflow__byte_console_readLine_add_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE191_Integer_Underflow__byte_console_readLine_multiply_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE23_Relative_Path_Traversal__connect_tcp_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE605_Multiple_Binds_Same_Port__basic_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE613_Insufficient_Session_Expiration__Servlet_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CWE78_OS_Command_Injection__connect_tcp_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcases/CWE193_Off_by_One_Error/CWE193_Off_by_One_Error__do_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcases/CWE549_Missing_Password_Masking/CWE549_Missing_Password_Masking__Servlet_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseBadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseClassIssue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseClassIssueBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseClassIssueGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseServletBadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/AbstractTestCaseServletBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testcasesupport/ServletMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <runInBackground>true</runInBackground>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MdQ9DrvrG7z4EBzOFB6NxSFCyg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,10 +62,72 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/JohnJang/OneDrive/문서/GitHub/jjproject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "settings.findbugs.project",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JohnJang\IdeaProjects\Bug_Check\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JohnJang\IdeaProjects\Bug_Check\src\CWE193_Off_by_One_Error" />
+      <recent name="C:\Users\JohnJang\IdeaProjects\Bug_Check\src\CWE549_Missing_Password_Masking" />
+      <recent name="C:\Users\JohnJang\IdeaProjects\Bug_Check\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testcasesupport" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.CWE191_Integer_Underflow__byte_console_readLine_multiply_01">
+    <configuration name="CWE190_Integer_Overflow__byte_console_readLine_add_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CWE190_Integer_Overflow__byte_console_readLine_add_01" />
+      <module name="Bug_Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CWE191_Integer_Underflow__byte_console_readLine_multiply_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CWE191_Integer_Underflow__byte_console_readLine_multiply_01" />
+      <module name="Bug_Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CWE78_OS_Command_Injection__connect_tcp_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CWE78_OS_Command_Injection__connect_tcp_01" />
+      <module name="Bug_Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bug_Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.CWE191_Integer_Underflow__byte_console_readLine_multiply_01" />
+        <item itemvalue="애플리케이션.CWE190_Integer_Overflow__byte_console_readLine_add_01" />
+        <item itemvalue="애플리케이션.CWE78_OS_Command_Injection__connect_tcp_01" />
+        <item itemvalue="애플리케이션.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -32,7 +136,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678094827158</updated>
+      <workItem from="1678094828445" duration="979000" />
+      <workItem from="1678101158966" duration="13000" />
+      <workItem from="1678718928902" duration="2576000" />
+      <workItem from="1681126941949" duration="948000" />
+      <workItem from="1682130428339" duration="127000" />
+      <workItem from="1682855005790" duration="621000" />
+      <workItem from="1683380604645" duration="1810000" />
+      <workItem from="1683553292562" duration="2468000" />
+      <workItem from="1684076197515" duration="258000" />
+      <workItem from="1684076474426" duration="190000" />
+      <workItem from="1684639330551" duration="12000" />
+      <workItem from="1684936569873" duration="332000" />
+      <workItem from="1685375570780" duration="320000" />
+      <workItem from="1685964155474" duration="1652000" />
+      <workItem from="1686014889570" duration="1267000" />
+      <workItem from="1686989996195" duration="3000" />
+      <workItem from="1687328368284" duration="1361000" />
+      <workItem from="1687339625058" duration="798000" />
+      <workItem from="1687763787387" duration="146000" />
+      <workItem from="1687926693814" duration="525000" />
+      <workItem from="1687929721887" duration="2279000" />
+      <workItem from="1687939595486" duration="663000" />
+      <workItem from="1687999173211" duration="635000" />
+      <workItem from="1688429560154" duration="773000" />
+      <workItem from="1688430442503" duration="5091000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

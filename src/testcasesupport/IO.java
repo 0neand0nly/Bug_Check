@@ -5,9 +5,9 @@
 * */
 package testcasesupport;
 
-import java.io.*;
-import java.sql.*;
-import java.util.regex.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.util.logging.Logger;
 
 public class IO 

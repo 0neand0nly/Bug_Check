@@ -16,8 +16,8 @@ have both a "bad" and "good" function.
 
 package testcasesupport;
 
-import java.io.IOException;
 import javax.servlet.http.*;
+import java.io.IOException;
 
 public abstract class AbstractTestCaseServlet extends AbstractTestCaseServletBase 
 {

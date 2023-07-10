@@ -15,13 +15,12 @@ Template File: sources-sinks-01.tmpl.java
 *
 * */
 
-package testcases.CWE191_Integer_Underflow.s01;
-import testcasesupport.*;
+import testcasesupport.AbstractTestCase;
+import testcasesupport.IO;
 
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.io.IOException;
-
+import java.io.InputStreamReader;
 import java.util.logging.Level;
 
 public class CWE191_Integer_Underflow__byte_console_readLine_multiply_01 extends AbstractTestCase

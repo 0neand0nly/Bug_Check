@@ -13,7 +13,7 @@ Template File: point-flaw-01.tmpl.java
 *
 * */
 
-package CWE193_Off_by_One_Error;
+package testcases.CWE193_Off_by_One_Error;
 
 import testcasesupport.*;
 

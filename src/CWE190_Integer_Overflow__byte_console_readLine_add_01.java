@@ -15,15 +15,12 @@ Template File: sources-sinks-01.tmpl.java
 *
 * */
 
-package testcases.CWE190_Integer_Overflow.s01;
-import testcasesupport.*;
-
-import javax.servlet.http.*;
+import testcasesupport.AbstractTestCase;
+import testcasesupport.IO;
 
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.io.IOException;
-
+import java.io.InputStreamReader;
 import java.util.logging.Level;
 
 public class CWE190_Integer_Overflow__byte_console_readLine_add_01 extends AbstractTestCase
@@ -87,7 +84,7 @@ public class CWE190_Integer_Overflow__byte_console_readLine_add_01 extends Abstr
         }
 
         /* POTENTIAL FLAW: if data == Byte.MAX_VALUE, this will overflow */
-        byte result = (byte)(data + 1);
+        byte result = (byte)(127 + 1); // 어떤 값이 나올지 계산
 
         IO.writeLine("result: " + result);
 

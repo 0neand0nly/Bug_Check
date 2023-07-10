@@ -13,11 +13,11 @@ Template File: point-flaw-01.tmpl.java
 *
 * */
 
-package CWE613_Insufficient_Session_Expiration;
+import testcasesupport.AbstractTestCaseServlet;
 
-import testcasesupport.*;
-
-import javax.servlet.http.*;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 public class CWE613_Insufficient_Session_Expiration__Servlet_01 extends AbstractTestCaseServlet
 {
@@ -26,7 +26,7 @@ public class CWE613_Insufficient_Session_Expiration__Servlet_01 extends Abstract
 
         HttpSession sesssion = request.getSession(true);
 
-        /* FLAW: A negative time indicates the session should never expire */
+
         sesssion.setMaxInactiveInterval(-1);
 
         response.getWriter().write("bad(): Session still valid");

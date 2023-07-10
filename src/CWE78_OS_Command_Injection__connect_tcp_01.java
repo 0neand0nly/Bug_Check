@@ -13,17 +13,13 @@ Template File: sources-sink-01.tmpl.java
 *
 * */
 
-package testcases.CWE78_OS_Command_Injection;
-
-import testcasesupport.*;
-
-import javax.servlet.http.*;
+import testcasesupport.AbstractTestCase;
+import testcasesupport.IO;
 
 import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.net.Socket;
-
 import java.util.logging.Level;
 
 public class CWE78_OS_Command_Injection__connect_tcp_01 extends AbstractTestCase

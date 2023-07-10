@@ -13,15 +13,12 @@ Template File: point-flaw-01.tmpl.java
 *
 * */
 
-package CWE605_Multiple_Binds_Same_Port;
-
-import testcasesupport.*;
-
-import java.net.ServerSocket;
-import java.net.InetSocketAddress;
+import testcasesupport.AbstractTestCase;
+import testcasesupport.IO;
 
 import java.io.IOException;
-
+import java.net.InetSocketAddress;
+import java.net.ServerSocket;
 import java.util.logging.Level;
 
 public class CWE605_Multiple_Binds_Same_Port__basic_01 extends AbstractTestCase
