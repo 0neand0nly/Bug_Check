@@ -9,8 +9,4 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
   </component>
-  <component name="SonarLintModuleSettings">
-    <option name="idePathPrefix" value="src" />
-    <option name="sqPathPrefix" value="src/main/java" />
-  </component>
 </module>
