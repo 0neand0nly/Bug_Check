@@ -1,36 +1,56 @@
 
-l
-java:S1104T"VMake staticTrue a static final constant or non-public and provide accessors if needed.(ò×¡‡
-r
-java:S1104U"WMake staticFalse a static final constant or non-public and provide accessors if needed.(•çå­ÿÿÿÿÿ
-l
-java:S1104V"VMake staticFive a static final constant or non-public and provide accessors if needed.(êÿ–ˆ
-F
-java:S1444T"0Make this "public static staticTrue" field final(ò×¡‡
-L
-java:S1444U"1Make this "public static staticFalse" field final(•çå­ÿÿÿÿÿ
-F
-java:S1444V"0Make this "public static staticFive" field final(êÿ–ˆ
-n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ã¥r
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÅ‹‡
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Ú­ð
-z
-java:S1149k"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(™Ìˆ“øÿÿÿÿ
-P
-java:S1118":Add a private constructor to hide the implicit public one.(„Õ•©
-N	java:S106"9Replace this use of System.out or System.err by a logger.(…Ÿ¥’
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
-?
-java:S2115F")Add password protection to this database.(Š‘ìü
-O
-java:S3400Z"9Remove this method and declare a constant for this value.(§¼Éç
-N
-java:S3400_"9Remove this method and declare a constant for this value.(¸®Ã'
-9
-java:S2119d"Save and re-use this "Random".(Êì¢ºÿÿÿÿÿ
-@
-java:S1197i"*Move the array designators [] to the type.(ù¹âÇ
-<
-java:S1905p"&Remove this unnecessary cast to "int".(ÉÐ¹Í
-A
-java:S1905u"&Remove this unnecessary cast to "int".(«Í±Ÿýÿÿÿÿ
+‰
+AYhoNj382MWCaJeb46XU
+java:S1104T"VMake staticTrue a static final constant or non-public and provide accessors if needed.(ò×¡‡8ðô­Þö0
+
+AYhoNj382MWCaJeb46XV
+java:S1104U"WMake staticFalse a static final constant or non-public and provide accessors if needed.(•çå­ÿÿÿÿÿ8ðô­Þö0
+‰
+AYhoNj382MWCaJeb46XW
+java:S1104V"VMake staticFive a static final constant or non-public and provide accessors if needed.(êÿ–ˆ8ðô­Þö0
+c
+AYhoNj382MWCaJeb46XX
+java:S1444T"0Make this "public static staticTrue" field final(ò×¡‡8ðô­Þö0
+i
+AYhoNj382MWCaJeb46XY
+java:S1444U"1Make this "public static staticFalse" field final(•çå­ÿÿÿÿÿ8ðô­Þö0
+c
+AYhoNj382MWCaJeb46XZ
+java:S1444V"0Make this "public static staticFive" field final(êÿ–ˆ8ðô­Þö0
+‹
+AYhoNj382MWCaJeb46Xa	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ã¥r8ðô­Þö0
+Œ
+AYhoNj382MWCaJeb46Xb	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òÅ‹‡8ðô­Þö0
+Œ
+AYhoNj382MWCaJeb46Xc	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’Ú­ð8ðô­Þö0
+—
+AYhoNj382MWCaJeb46Xd
+java:S1149k"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(™Ìˆ“øÿÿÿÿ8ðô­Þö0
+m
+AYhoNj382MWCaJeb46Xe
+java:S1118":Add a private constructor to hide the implicit public one.(„Õ•©8ðô­Þö0
+k
+AYhoNj382MWCaJeb46Xf	java:S106"9Replace this use of System.out or System.err by a logger.(…Ÿ¥’8ðô­Þö0
+p
+AYhoNj382MWCaJeb46Xg	java:S106 "9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8ðô­Þö0
+\
+AYhoNj382MWCaJeb46Xh
+java:S2115F")Add password protection to this database.(Š‘ìü8ðô­Þö0
+l
+AYhoNj382MWCaJeb46Xi
+java:S3400Z"9Remove this method and declare a constant for this value.(§¼Éç8ðô­Þö0
+k
+AYhoNj382MWCaJeb46Xj
+java:S3400_"9Remove this method and declare a constant for this value.(¸®Ã'8ðô­Þö0
+V
+AYhoNj382MWCaJeb46Xl
+java:S2119d"Save and re-use this "Random".(Êì¢ºÿÿÿÿÿ8ðô­Þö0
+]
+AYhoNj382MWCaJeb46Xm
+java:S1197i"*Move the array designators [] to the type.(ù¹âÇ8ðô­Þö0
+Y
+AYhoNj382MWCaJeb46Xn
+java:S1905p"&Remove this unnecessary cast to "int".(ÉÐ¹Í8ðô­Þö0
+^
+AYhoNj382MWCaJeb46Xo
+java:S1905u"&Remove this unnecessary cast to "int".(«Í±Ÿýÿÿÿÿ8ðô­Þö0
